@@ -1,0 +1,11 @@
+{
+  "name": "kronosgr-get-default-terminal",
+  "version": "1.0.0",
+  "description": "Find the default terminal/Konsole for all OSes and Desktop Environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "kronosGR",
+  "license": "ISC"
+}
