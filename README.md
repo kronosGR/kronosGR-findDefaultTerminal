@@ -11,7 +11,7 @@ npm install @kronosgr/get-default-terminal
 ## Usage
 
 ```
-const getDefaultTerminal = require('get-default-terminal')
+const getDefaultTerminal = require('@kronosgr/get-default-terminal')
 
 console.log(getDefaultTerminal())
 ```
