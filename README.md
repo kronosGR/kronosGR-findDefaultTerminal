@@ -5,13 +5,13 @@ A Node.js module to detect the default terminal application based on the operati
 ## Installation
 
 ```bash
-npm install kronosgr-get-default-terminal
+npm install @kronosgr/get-default-terminal
 ```
 
 ## Usage
 
 ```
-const getDefaultTerminal = require('kronosgr-get-default-terminal')
+const getDefaultTerminal = require('get-default-terminal')
 
 console.log(getDefaultTerminal())
 ```

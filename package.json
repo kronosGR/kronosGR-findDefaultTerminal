@@ -1,11 +1,22 @@
 {
-  "name": "kronosgr-get-default-terminal",
+  "name": "@kronosgr/get-default-terminal",
   "version": "1.0.0",
   "description": "Find the default terminal/Konsole for all OSes and Desktop Environments",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"No tests specified\""
   },
   "author": "kronosGR",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kronosGR/kronosGR-findDefaultTerminal"
+  },
+  "keywords": [
+    "default",
+    "terminal",
+    "detector",
+    "nodejs",
+    "npm"
+  ]
 }
