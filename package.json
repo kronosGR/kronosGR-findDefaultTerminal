@@ -7,7 +7,7 @@
     "test": "echo \"No tests specified\""
   },
   "author": "kronosGR",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/kronosGR/kronosGR-findDefaultTerminal"
